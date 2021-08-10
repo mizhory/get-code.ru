@@ -1,1 +1,1 @@
-<? $LICENSE_KEY = "S21-ML-Q8LTKH944G00KPRAVV"; ?>
+<? $LICENSE_KEY = "****"; ?>
